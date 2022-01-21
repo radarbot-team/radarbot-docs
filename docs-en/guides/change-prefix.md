@@ -1,4 +1,4 @@
-### Change Prefix
+### 😀 Change Prefix
 
 
 **To change the bot's prefix, use this command:**&#x20;
