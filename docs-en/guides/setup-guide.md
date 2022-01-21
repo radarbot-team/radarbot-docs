@@ -12,7 +12,7 @@ RadarBot supports slash commands, so just type / to see a list of commands, if i
 
 ### Permissions
 
-**RadarBot requires the following TEXT permissions:**
+**Radar Bot requires the following TEXT permissions:**
 
 
 * `READ_MESSAGES`
