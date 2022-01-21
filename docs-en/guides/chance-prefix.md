@@ -7,7 +7,7 @@
 {% hint style="success" %}
 /prefix \[new\_prefix]
 
-![Setup Prefix](assets/prefix.gif)
+![Setup Prefix](assets/prefix.png)
 {% endhint %}
 {% endtab %}
 {% endtabs %}
