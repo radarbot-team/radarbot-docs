@@ -2,7 +2,9 @@
 
 ## What are the languages that RadarBot supports?
 
-RadarBot supports **english, spanish and portuguese** as languages.
+RadarBot supports **English, Spanish, Portuguese and French** as languages.
+
+**Coming Soon  New Languages: Italian and Germany**
 
 ## What are the stacks used on bot development?
 
