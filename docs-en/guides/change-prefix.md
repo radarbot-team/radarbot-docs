@@ -5,11 +5,11 @@
 
 */prefix \[new\_prefix]*
 
-![Setup Prefix](../assets/prefix.png)
+![Setup Prefix](../.gitbook/assets/prefix.png)
 
 **The bot will respond:**
 
-![Setup Prefix](../assets/responsebotprefix.png)
+![Setup Prefix](../.gitbook/assets/responsebotprefix.png)
 
 
 **And ready you changed the profile on your server**

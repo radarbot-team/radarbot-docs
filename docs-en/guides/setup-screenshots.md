@@ -11,7 +11,7 @@
 *Create two channels, one for members to post their photos and one for the best screenshots*
 
 
-![Channels](../assets/canais.png)
+![Channels](../.gitbook/assets/canais.png)
 
 {% hint style="warning" %}
 ***WARNING***
@@ -19,7 +19,7 @@ For the correct functioning of the screenshot system, check that the bot's permi
 
 For this, go to the channel settings -> permissions -> Add the bot as a custom permission option -> and activate this option, as shown in the photo below
 
-![Embed](../assets/embedlink.png)
+![Embed](../.gitbook/assets/embedlink.png)
 {% endhint %}
 
 **Second step**
@@ -33,58 +33,58 @@ For this, go to the channel settings -> permissions -> Add the bot as a custom p
 
 * **minimumvotes:** *Here you choose the amount of minimum votes that you have to have for the photo to go to the channel of the best screenshots, in my case for demonstration purposes I will put 1 vote but feel free to put as many as you think necessary.*
 
-![Command](../assets/setupscreenshots.png)
+![Command](../.gitbook/assets/setupscreenshots.png)
 
 *The bot will respond:*
-![Response](../assets/responsescreen.png)
+![Response](../.gitbook/assets/responsescreen.png)
 
 **and the system will be configured, let's test it?**
 
 * *Put a photo in the channel set for photos*
 
-![Screenshot](../assets/Screenshot.png)
+![Screenshot](../.gitbook/assets/Screenshot.png)
 
 *We can see that it is working and also the 3 elements that I had talked about earlier*
 
 **If you click vote:**
 
-![Vote add](../assets/Vote.png)
+![Vote add](../.gitbook/assets/Vote.png)
 
 *He registers the vote and sends a private message that it worked!*
 
 **If you click vote but you already have a vote from that member:**
 
-![Vote already voted](../assets/voteadd.png)
+![Vote already voted](../.gitbook/assets/voteadd.png)
 
 *It doesn't let you add another vote, only one per member, the message is also private*
 
 **If you remove the vote:**
 
-![Vote Remove](../assets/remove.png)
+![Vote Remove](../.gitbook/assets/remove.png)
 
 *He warns that he removed the vote in a private message*
 
 **If you remove the vote when you have no vote for that member:**
 
-![Not Have vote](../assets/nothavevote.png)
+![Not Have vote](../.gitbook/assets/nothavevote.png)
 
 *He warns that he doesn't have any votes, also in a private message*
 
 **And after reaching the minimum number of votes, the bot sends a photo to the channel configured for the best screenshots**
 
-![Top Screenshot](../assets/top.png)
+![Top Screenshot](../.gitbook/assets/top.png)
 
 **To block text in the vote posting channel use this command:**
-![Top Screenshot](../assets/notext.png)
+![Top Screenshot](../.gitbook/assets/notext.png)
 
 *The bot will send confirmation that it worked and every time you send a text in this channel it will delete the message sent and will send a message in private:*
 
-![Private Message](../assets/private.png)
+![Private Message](../.gitbook/assets/private.png)
 
 **If you want to disable the screenshot system use the command:** ```/deactivatescreenshots ```
 
 
-![Desactive](../assets/desactive.png)
+![Desactive](../.gitbook/assets/desactive.png)
 
 *It will send the command and it will be disabled*
 
