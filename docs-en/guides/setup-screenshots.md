@@ -17,15 +17,19 @@
 ***WARNING***
 For the correct functioning of the screenshot system, check that the bot's permission to send Embed Message in these channels is enabled
 
-For this, go to the channel settings -> permissions -> Add the bot as a custom permission option -> and activate this option, as shown in the photo below
+For this, go to the channel settings -> permissions -> Add the bot as a custom permission option -> and enable these options ```EMBED_LINK``` and ```MANAGE_MESSAGES```, as shown in the pictures below
 
 ![Embed](../.gitbook/assets/embedlink.png)
+
+
+![MANAGE_MESSAGES](../.gitbook/assets/manage.png)
 {% endhint %}
 
 **Second step**
 
 
-*Enter the setup command for this type ```/setupscreenshot``` ele irá pedir 3 argumentos:*
+*Enter the setup command for this type ```/setupscreenshot``` 
+it will ask for 3 arguments:*
 
 * **screenshotschannel:** *Here you choose the channel where the member will put his photos, in my case I will put #screenshots*
 
