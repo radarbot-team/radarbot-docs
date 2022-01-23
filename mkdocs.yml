@@ -2,6 +2,8 @@ site_name: RadarBot Documentation
 site_url: https://docs.radarbot.xyz
 repo_url: https://github.com/radarbot-team/radarbot-docs
 repo_name: radarbot-docs
+copyright: Powered by <a href="https://vercel.com/?utm_source=radarbot-team&utm_campaign=oss" target="_blank">
+  <img src="/assets/images/vercel-light-logo.svg" alt="Vercel Logo"></a>
 
 
 theme:
