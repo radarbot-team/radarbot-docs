@@ -8,6 +8,7 @@ copyright: Powered by <a href="https://vercel.com/?utm_source=radarbot-team&utm_
 
 theme:
   name: material
+  custom_dir: overrides
   font:
     text: Inter
   logo: assets/images/RadarBotLogo.png
