@@ -11,19 +11,19 @@
 *Create two channels, one for members to post their photos and one for the best screenshots*
 
 
-![Channels](../.gitbook/assets/canais.png)
+![Channels](../../assets/images/canais.png)
 
-{% hint style="warning" %}
-***WARNING***
-For the correct functioning of the screenshot system, check that the bot's permission to send Embed Message in these channels is enabled
+!!! warning
+      ***WARNING***
+      For the correct functioning of the screenshot system, check that the bot's permission to send Embed Message in these channels is enabled
 
-For this, go to the channel settings -> permissions -> Add the bot as a custom permission option -> and enable these options ```EMBED_LINK``` and ```MANAGE_MESSAGES```, as shown in the pictures below
+      For this, go to the channel settings -> permissions -> Add the bot as a custom permission option -> and enable these options ```EMBED_LINK``` and ```MANAGE_MESSAGES```, as shown in the pictures below
 
-![Embed](../.gitbook/assets/embedlink.png)
+      ![Embed](../../assets/images/embedlink.png)
 
 
-![MANAGE_MESSAGES](../.gitbook/assets/manage.png)
-{% endhint %}
+      ![MANAGE_MESSAGES](../../assets/images/manage.png)
+
 
 **Second step**
 
@@ -37,65 +37,65 @@ it will ask for 3 arguments:*
 
 * **minimumvotes:** *Here you choose the amount of minimum votes that you have to have for the photo to go to the channel of the best screenshots, in my case for demonstration purposes I will put 1 vote but feel free to put as many as you think necessary.*
 
-![Command](../.gitbook/assets/setupscreenshots.png)
+![Command](../../assets/images/setupscreenshots.png)
 
 *The bot will respond:*
-![Response](../.gitbook/assets/responsescreen.png)
+![Response](../../assets/images/responsescreen.png)
 
 **and the system will be configured, let's test it?**
 
 * *Put a photo in the channel set for photos*
 
-![Screenshot](../.gitbook/assets/Screenshot.png)
+![Screenshot](../../assets/images/Screenshot.png)
 
 *We can see that it is working and also the 3 elements that I had talked about earlier*
 
 **If you click vote:**
 
-![Vote add](../.gitbook/assets/Vote.png)
+![Vote add](../../assets/images/Vote.png)
 
 *He registers the vote and sends a private message that it worked!*
 
 **If you click vote but you already have a vote from that member:**
 
-![Vote already voted](../.gitbook/assets/voteadd.png)
+![Vote already voted](../../assets/images/voteadd.png)
 
 *It doesn't let you add another vote, only one per member, the message is also private*
 
 **If you remove the vote:**
 
-![Vote Remove](../.gitbook/assets/remove.png)
+![Vote Remove](../../assets/images/remove.png)
 
 *He warns that he removed the vote in a private message*
 
 **If you remove the vote when you have no vote for that member:**
 
-![Not Have vote](../.gitbook/assets/nothavevote.png)
+![Not Have vote](../../assets/images/nothavevote.png)
 
 *He warns that he doesn't have any votes, also in a private message*
 
 **And after reaching the minimum number of votes, the bot sends a photo to the channel configured for the best screenshots**
 
-![Top Screenshot](../.gitbook/assets/top.png)
+![Top Screenshot](../../assets/images/top.png)
 
 **To block text in the vote posting channel use this command:**
-![Top Screenshot](../.gitbook/assets/notext.png)
+![Top Screenshot](../../assets/images/notext.png)
 
 *The bot will send confirmation that it worked and every time you send a text in this channel it will delete the message sent and will send a message in private:*
 
-![Private Message](../.gitbook/assets/private.png)
+![Private Message](../../assets/images/private.png)
 
 **If you want to disable the screenshot system use the command:** ```/deactivatescreenshots ```
 
 
-![Desactive](../.gitbook/assets/desactive.png)
+![Desactive](../../assets/images/desactive.png)
 
 *It will send the command and it will be disabled*
 
 
-{% hint style="warning" %}
-Only server administrators (users with`ADMINISTRATOR`permission) can set Screenshot System
-{% endhint %}
+!!! warning
+      Only server administrators (users with`ADMINISTRATOR`permission) can set Screenshot System
+
 
 *If you have any questions, join our support server by clicking [here](https://discord.com/invite/DEtGv4wUNX)*
 

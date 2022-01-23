@@ -1,7 +1,7 @@
 # Table of contents
 
-* [RadarBot documentation](README.md)
-* [❓Frequently Asked Questions](frequently-asked-questions.md)
+* [RadarBot documentation](index.md)
+* [❓Frequently Asked Questions](faq.md)
 
 ## Guides
 
