@@ -10,24 +10,8 @@
 * [📸Setup Screnshot System](guides/setup-screenshots.md)
 
 ## Commands
-**Configuration**
 
-* [Channel Only](commands/configuration/channelonly.md)
-* [Command (Enable or Disable)](commands/configuration/command.md)
-* [Language](commands/configuration/language.md)
-* [Prefix](commands/configuration/prefix.md)
-
-**Help**
-* [Help](commands/help/help.md)
-
-**General**
-
-* [Donate](commands/general/donate.md)
-* [Invite](commands/general/invite.md)
-* [Ping](commands/general/ping.md)
-
-**Settings**
-* [Set Language](commands/settings/setlanguage.md)
+* [Version 3.0.5](commands/commands.md)
 
 
 
