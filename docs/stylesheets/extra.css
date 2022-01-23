@@ -1,0 +1,84 @@
+/*Primary Thematic Colors*/
+:root {
+  --md-primary-fg-color: #00d1de;
+  --md-primary-fg-color--dark: hsl(216, 32%, 17%);
+  --md-primary-fg-color--light: #00c2cb;
+  --md-accent-fg-color: #00c2cb;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-default-bg-color: #1a1c48;
+}
+
+/*Header Modifications*/
+.md-typeset h1 {
+  color: #00d1de;
+}
+h1 {
+  /*text-transform: uppercase;*/
+}
+h2 {
+  color: #00d1de;
+  /*text-transform: uppercase;*/
+  padding-bottom: 0.5em;
+}
+h3 {
+  color: #a9ceef;
+}
+h4 {
+  padding-top: 1em;
+}
+.md-typeset h5 {
+  color: hsl(0deg 0% 100%);
+}
+
+/* highlighting */
+.md-typeset mark {
+  /* ==text== */
+  background-color: #244559;
+  color: white;
+  text-decoration: none;
+}
+/*.md-typeset ins {  !* ^^text^^ *!*/
+/*    background-color: #594a47;*/
+/*    color: white;*/
+/*    text-decoration: none;*/
+/*}*/
+.md-typeset del {
+  /* ~~text~~ */
+  background-color: #47324d;
+  color: white;
+  text-decoration: none;
+}
+.md-typeset code {
+  background-color: hsl(232, 7%, 28%);
+  border-radius: 0.1rem;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+  font-size: 0.95em;
+  padding: 0 0.2941176471em;
+  word-break: break-word;
+}
+/*Standardize Font Awesome CSS Styling*/
+.discord {
+  font-size: 20px;
+}
+.github {
+  font-size: 20px;
+}
+/*Table Styling*/
+.md-typeset table:not([class]) th {
+  font-weight: bold;
+  background-color: #00d1de;
+  color: var(--md-default-bg-color);
+}
+/* reduced table row height */
+.md-typeset table:not([class]) td {
+  border-top: 0.05rem solid var(--md-default-fg-color--lightest);
+  padding: 0.2375em 1.25em;
+  vertical-align: top;
+}
+/* Tasklist */
+.md-typeset [type="checkbox"]:checked + .task-list-indicator:before {
+  background-color: #00a2ab;
+}

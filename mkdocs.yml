@@ -1,0 +1,43 @@
+site_name: RadarBot Documentation
+site_url: https://docs.radarbot.xyz
+repo_url: https://github.com/radarbot-team/radarbot-docs
+repo_name: radarbot-docs
+
+
+theme:
+  name: material
+  font:
+    text: Inter
+  logo: assets/images/RadarBotLogo.png
+
+  palette:
+    scheme: slate
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    # Temporarily deactivated to provide support for Discord browser + anchor links
+    # - navigation.instant
+    - navigation.top
+    - navigation.tracking
+    - search.suggest
+    - search.highlight
+    - search.share
+  favicon: assets/images/RadarBotLogo.png
+
+extra_css:
+  - stylesheets/extra.css
+  - stylesheets/navigation.css
+
+plugins:
+  - search:
+      lang: en
+  - awesome-pages
+  - git-revision-date-localized:
+      type: date
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
