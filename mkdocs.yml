@@ -1,11 +1,13 @@
 site_name: RadarBot Documentation
 site_url: https://docs.radarbot.xyz
+repo_url: https://github.com/radarbot-team/radarbot-docs
+repo_name: radarbot-docs
 
 
 theme:
   name: material
   font:
-    text: Roboto
+    text: Inter
   logo: assets/images/RadarBotLogo.png
 
   palette:
@@ -20,6 +22,7 @@ theme:
     - search.suggest
     - search.highlight
     - search.share
+  favicon: assets/images/RadarBotLogo.png
 
 extra_css:
   - stylesheets/extra.css
