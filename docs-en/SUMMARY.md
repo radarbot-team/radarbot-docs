@@ -32,5 +32,5 @@
 
 
 ## Change Log
-
+* [Version 3.0.6](changelog/V.3.0.6.md)
 * [Version 3.0.5](changelog/V.3.0.5.md)

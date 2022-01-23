@@ -1,0 +1,10 @@
+# Version 3.0.6 Released 🎉
+
+**Improvements:**
+**1.** Performance of Metar and TAF commands improved in 30%;
+**2.** Now RadarBot auto-delete message when you vote or remove vote from screenshots;
+**3.** Fixed some code that was crashing bot;
+
+And now the RadarBot is part of 200+ servers🎉.  
+
+
