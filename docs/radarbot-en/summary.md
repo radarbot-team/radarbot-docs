@@ -11,7 +11,7 @@
 
 ## Commands
 
-* [Version 3.0.5](commands/commands.md)
+* [Version 3.0.5](commands/summary.md)
 
 
 
