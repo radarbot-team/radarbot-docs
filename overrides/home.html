@@ -1,0 +1,43 @@
+{% extends "main.html" %}
+{% block tabs %}
+{{ super() }}
+<link rel="stylesheet" href="stylesheets/home.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+  integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ=="
+  crossorigin="anonymous" referrerpolicy="no-referrer" />
+<div class="container">
+
+
+  <div class="left">
+    <h1>RadarBot</h1>
+    <h2>The next generation of Discord Bot for flight simmers</h2>
+    <p>RadarBot is a Discord bot mande by flight simmers for flight simmers. It is a powerful tool that helps on every
+      flight or ATC session with great features.
+      And RadarBot is <strong>free to use</strong>, forever!
+    </p>
+
+    <div class="features">
+      <ul>
+        <li><i class="fa fa-check"></i><span>METAR</span></li>
+        <li><i class="fa fa-check"></i><span>TAF</span></li>
+        <li><i class="fa fa-check"></i><span>Charts (for Brazil and UEA)</span></li>
+        <li><i class="fa fa-check"></i><span>Multi language (supports Portuguese, English and French)</span></li>
+        <li><i class="fa fa-check"></i><span>Screenshots poll system</span></li>
+        <li><i class="fa fa-check"></i><span>Real flights live information</span></li>
+      </ul>
+    </div>
+
+    <div class="buttons">
+      <button class="btn-hover color"><a href="https://bit.ly/RadarBotInvite" class="button">Add to Discord</a></button>
+      <button class="btn-hover color"><a href="{{ page.next_page.url | url }}"
+          title="{{ page.next_page.title | striptags }}" class="md-button md-button--primary"
+          class="button">Documentation</a></button>
+    </div>
+  </div>
+
+  <div class="right">
+    <img src="assets/images/code_review.svg" alt="code image">
+  </div>
+</div>
+{% endblock %}
+{% block content %}{% endblock %}
