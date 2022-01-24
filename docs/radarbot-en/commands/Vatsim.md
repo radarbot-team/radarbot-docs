@@ -15,7 +15,7 @@
 //Rever Foto em português
 
 
-### /onvatsim [callsign] or .vatsim [callsign]
+### /onvatsim [callsign] or .onvatsim [callsign]
 *The onvatsim command shows information of people online at Vatsim with details, for now it is working only for ATCs but we are already correcting the pilot version*
 
 **ATC**
