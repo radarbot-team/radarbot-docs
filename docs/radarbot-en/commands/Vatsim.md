@@ -16,9 +16,20 @@
 
 
 ### /onvatsim [callsign] or .vatsim [callsign]
+*The onvatsim command shows information of people online at Vatsim with details, for now it is working only for ATCs but we are already correcting the pilot version*
+
 **ATC**
+
+
 ![OnVatsim informations](../../assets/images/onvatsim.png)
 
 **Pilot**
 
 *Coming Soon*
+
+
+**If you enter a that no one is connected:**
+
+*The bot will return an error message that no one is currently connected with that callsign*
+
+![Vatsim Error](../../assets/images/onvatsimerror.png)
