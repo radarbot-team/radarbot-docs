@@ -1,4 +1,4 @@
-# 💡Setup Screenshots System
+# 📸Setup Screenshots System
 
 ### What is the screenshot system?
 
