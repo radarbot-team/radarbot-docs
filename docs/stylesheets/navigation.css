@@ -22,13 +22,6 @@
   height: -webkit-fill-available;
 }
 
-/*Announcement Bar*/
-.md-banner {
-  background-color: var(--md-footer-bg-color--dark);
-  color: var(--md-footer-fg-color);
-  overflow: auto;
-  text-align: center;
-}
 /*8.1.1 compatibility*/
 /*.md-typeset img, .md-typeset svg {*/
 /*    height: auto;*/
