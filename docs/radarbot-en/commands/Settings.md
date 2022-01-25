@@ -8,13 +8,16 @@
 
 
 *This command is used to set a language on the server (Portuguese, English, Spanish and French are now available, but soon with others), to set a language type ``/setlanguege`` and the bot will respond:*
-
+<figure markdown>
 ![Set Language](../../assets/images/setlanguage.png)
+</figure>
 
 *Click on the **Please select a language** option and an option box will open with the available languages:*
-
+<figure markdown>
 ![Set Language Options](../../assets/images/options.png)
+</figure>
 
 *Choose the language that fits your server in my case I will choose Portuguese and the bot will respond that the language has been changed*
-
+<figure markdown>
 ![Response Language](../../assets/images/reslanguage.png)
+</figure>
