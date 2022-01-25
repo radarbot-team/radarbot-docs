@@ -35,4 +35,4 @@
 !!! note
     Only those who executed the command can move the pages, if any other member interferes, the bot will send a private message
 !!! note
-    After 60 secconds the command has been executed, the buttons are disabled
+    After 120 secconds the command has been executed, the buttons are disabled
