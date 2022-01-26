@@ -15,7 +15,7 @@
 **RadarBot website team:**
 
 - André Felipe Brito
-Thanks for Cicero Thiago for help with some parts.
+- Thanks for (Cicero Thiago)[https://github.com/cicerotcv] for help with some parts.
 
 **RadarBot website UI/UX team**
 
