@@ -1,0 +1,9 @@
+title: RadarBot - Documentação
+nav:
+  - Welcome: index.md
+  - Summary: summary.md
+  - Commands: commands
+  - FAQ: faq.md
+  - Guides: guides
+  - Changelog: changelog
+  - Acknowledgment: acknowledgment.md
