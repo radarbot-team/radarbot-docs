@@ -1,4 +1,4 @@
-# 💡Setup Screenshots System
+# 📸Setup Screenshots System
 
 ### What is the screenshot system?
 
@@ -52,7 +52,7 @@ it will ask for 3 arguments:*
 
 **If you click vote:**
 
-![Vote add](../../assets/images/Vote.png)
+![Vote add](../../assets/images/vote.png)
 
 *He registers the vote and sends a private message that it worked!*
 
