@@ -1,91 +1,92 @@
+# Configuração
 ### .prefix or /prefix 
 
-!!! warning "Attention"
-      Only server administrators (users with`ADMINISTRATOR`permission) can modify RadarBot prefix settings!
+!!! warning "Atenção"
+      Somente administradores de servidor (usuários com permissão de `ADMINISTRATOR`) podem modificar as configurações de prefixo do RadarBot!
 
-This command is to show the configured prefix if placed this way:
+Esse comando tem a função mostrar o prefixo configurado de colocado desta forma:
 
 <figure markdown>
-![Prefix](../../assets/images/prefixview.png)
+![Prefixo](../../assets/images/prefixview.png)
 </figure>
 
-Or if you put ```.prefix [prefix]``` the bot will change the prefix if you want a detailed guide to change the prefix click [here](../../guides/change-prefix)
+Ou se você colocar ```.prefix [prefix]``` o bot irá alterar o prefixo se você quiser um guia detalhado para alterar o prefixo clique [aqui](../../guides/change-prefix)
 
 <figure markdown>
-![Set Prefix](../../assets/images/setprefix.png)
+![Setando o prefixo](../../assets/images/setprefix.png)
 </figure>
 
 
 ###  /requiredrole 
 
-!!! warning "Attention"
-      Only server administrators (users with`ADMINISTRATOR`permission) can modify RadarBot settings!
+!!! warning "Atenção"
+      Somente administradores de servidor (usuários com permissão de `ADMINISTRATOR`) podem modificar as configurações do RadarBot!
 
-*This command you can block commands for specific positions for this type the command below:*
+*Este comando você pode bloquear comandos para posições específicas para este tipo o comando abaixo:*
 
 
 <figure markdown>
-![Role](../../assets/images/role.png)
+![Cargo](../../assets/images/role.png)
 </figure>
 
 
-*In the photo below the Bot's response:*
+*Na foto abaixo a resposta do Bot:*
 
-!!! note "Note"
-      I changed [command] to taf to do the demo
+!!! note "Nota"
+      Mudei [comando] para taf para fazer a demonstração
 
 <figure markdown>
-![Set Role](../../assets/images/setrole.png)
+![Setando Cargo](../../assets/images/setrole.png)
 </figure>
 
 ### .language or /language
 
-!!! warning "Attention"
-      Only server administrators (users with`ADMINISTRATOR`permission) can modify RadarBot settings!
+!!! warning "Atenção"
+      Somente administradores de servidor (usuários com permissão de `ADMINISTRATOR`) podem modificar as configurações do RadarBot!
 
-*To know the language that Radar Bot is using on the server use this command*
+*Para saber o idioma que o Radar Bot está usando no servidor use este comando*
 
 <figure markdown>
-![Language](../../assets/images/language.png)
+![Linguagem](../../assets/images/language.png)
 </figure>
 
-!!! note "Note"
-    If you want to change the language use this [command](../Settings/#setlanguage)
+!!! note "Nota"
+    Se você quiser alterar o idioma, use este [comando](../Settings/#setlanguage)
 
 ### .command or /command 
 
-!!! warning "Attention"
-      Only server administrators (users with`ADMINISTRATOR`permission) can modify RadarBot settings!
+!!! warning "Atenção"
+      Somente administradores de servidor (usuários com permissão de `ADMINISTRATOR`) podem modificar as configurações do RadarBot!
 
-*To disable or enable a Radar Bot command on your server use this command*
+*Para desabilitar ou habilitar um comando Radar Bot em seu servidor use este comando*
 
 
-***.command <"enable" or "disable"> <"Command Name">***
+***.command <"enable" or "disable"> <"Nome do Comando">***
 
 <figure markdown>
-![Command](../../assets/images/discommand.png)
+![Comando](../../assets/images/discommand.png)
 </figure>
 
-*and the bot will respond:*
+*e o bot responderá:*
 
 <figure markdown>
-![Command](../../assets/images/rescommand.png)
+![Comando](../../assets/images/rescommand.png)
 </figure>
 
 
 ### .channelonly or /channelonly
 
-!!! warning "Attention"
-      Only server administrators (users with`ADMINISTRATOR`permission) can modify RadarBot settings!
+!!! warning "Atenção"
+      Somente administradores de servidor (usuários com permissão de `ADMINISTRATOR`) podem modificar as configurações do RadarBot!
 
-*To allow or not a command in a specific channel of your server use this command*
+*Para permitir ou não um comando em um canal específico do seu servidor use este comando*
 
 <figure markdown>
-![Channel Only](../../assets/images/channelonly.png)
+![Canal Somente](../../assets/images/channelonly.png)
 </figure>
 
-*and the bot will respond:*
+*e o bot responderá:*
 
 <figure markdown>
-![Channel Only Response](../../assets/images/reschannel.png)
+![Resposta Canal Somente](../../assets/images/reschannel.png)
 </figure>
