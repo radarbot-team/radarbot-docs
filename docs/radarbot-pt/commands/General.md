@@ -3,7 +3,7 @@
 
 
 
-*It's not exactly a command but if you want to find the Radar Bot link directly through discord, just click on the Radar Bot name in any message and then on "Add to Serve"*
+*Não é exatamente um comando, mas se você quiser encontrar o link do Radar Bot diretamente pelo discord, basta clicar no nome do Radar Bot em qualquer mensagem e depois em "Add to Serve"*
 
 <figure markdown>
   ![Add to server](../../assets/images/add.png) 
@@ -12,7 +12,7 @@
 
 ### .donate or /donate
 
-*If you want to help the development and continue to keep it online 24/7, Paypal has two options and you can be a MemberShip Radar Bot, having benefits such as Supporter Position on the Bot server, Early access to new updates among other benefits, if If you were, would you take a look?*
+*Se você quer ajudar no desenvolvimento e continuar online 24 horas por dia, o Paypal tem duas opções e você pode ser um MemberShip Radar Bot, tendo benefícios como Posição de Apoiador no servidor Bot, Acesso antecipado a novas atualizações entre outros benefícios, Se você fosse, você daria uma olhada?*
 <figure markdown>
 ![Donate](../../assets/images/donate.png)
 </figure>
@@ -20,7 +20,7 @@
 
 ### .ping or /ping
 
-*To know the quality of your internet directly on discord, use the Radar Bot ping command, it will inform your Ping in relation to the Gateway*
+*Para saber a qualidade da sua internet diretamente no discord, use o comando ping do Radar Bot, ele informará seu Ping em relação ao Gateway*
 <figure markdown>
 ![Ping](../../assets/images/ping.png)
 </figure>
