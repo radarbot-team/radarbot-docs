@@ -15,7 +15,7 @@
 **Equipe do site RadarBot:**
 
 - André Felipe Brito
-- Thanks for [Cicero Thiago](https://github.com/cicerotcv) for help with some parts.
+- Obrigado a [Cícero Thiago](https://github.com/cicerotcv) pela ajuda em algumas partes.
 
 **Equipe de UI/UX do site RadarBot**
 

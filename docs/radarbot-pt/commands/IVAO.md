@@ -1,13 +1,13 @@
 ### /ivao[location] or .ivao[location]
 
-*This command shows information from an ICAO or beginning of one, taking this information from the IVAO API, as you can see in the photo below:*
+*Este comando mostra informações de uma ICAO ou início de uma, tirando essas informações da API da IVAO, como você pode ver na foto abaixo:*
 <figure markdown>
 ![Ivao](../../assets/images/ivao.png)
 </figure>
 
 ### /onivao[ICAO] or .onivao[ICAO]
 
-*The onivao command shows detailed information of a controller or pilot connected to the network, the information used comes from the IVAO API in the photos below we can see the operation of the command for ATC and Pilot*
+*O comando onivao mostra informações detalhadas de um controlador ou piloto conectado a rede, as informações utilizadas vem da API IVAO nas fotos abaixo podemos ver o funcionamento do comando para ATC e Piloto*
 
 **Pilot**
 <figure markdown>
