@@ -20,7 +20,7 @@
 **RadarBot website UI/UX team**
 
 - Carolina Eguchi
-- Ruy Monteiro
+- [Ruy Monteiro](https://github.com/ruymon)
 
 **RadarBot patreons**
 
