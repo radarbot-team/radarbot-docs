@@ -1,7 +1,7 @@
 # Utilitários de Voo
 ### .brief[ICAO] or /brief[ICAO]
 
-*Você está voando ou controlando e quer saber rapidamente o horário do metar, taf e Zulu, basta digitar o comando brief e o ICAO do aeroporto que deseja essa informação e em poucos segundos o bot retornará:*
+*Você está voando ou controlando e quer saber rapidamente o horário do metar, taf e Horário Zulu, basta digitar o comando brief e o ICAO do aeroporto que deseja essa informação e em poucos segundos o bot retornará:*
 <figure markdown>
 ![Brief](../../assets/images/brief.png)
 </figure>

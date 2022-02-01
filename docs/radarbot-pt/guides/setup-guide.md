@@ -3,16 +3,16 @@
 
 
 !!! warning
-      Only server administrators (users with`ADMINISTRATOR`permission) can modify RadarBot settings!
+      Somente administradores de servidor (usuários com permissão de `ADMINISTRATOR`) podem modificar as configurações do RadarBot!
 
 
 !!! tip "Slash commands"
-      RadarBot supports slash commands, so just type / to see a list of commands, if it doesn't work check if this functionality is enabled in the server settings.
+      O RadarBot suporta comandos de barra, então basta digitar / para ver uma lista de comandos, caso não funcione verifique se esta funcionalidade está habilitada nas configurações do servidor.
 
 
-### Permissions
+### Permissões
 
-**Radar Bot requires the following TEXT permissions:**
+**O Radar Bot requer as seguintes permissões de TEXTO:**
 
 
 * `READ_MESSAGES`
@@ -31,14 +31,14 @@
 
 
 
-**RadarBot requires the following SERVER permissions:**
+**RadarBot requer as seguintes permissões de SERVIDOR:**
 
 * `MANAGE_ROLE`
 * `MANAGE_CHANNELS`
 
 !!! warning
-      Make sure the Discord channel permissions are correct!\
-      _Discord Permissions Guide:_ [https://support.discord.com/hc/en-us/articles/206029707](https://support.discord.com/hc/en-us/articles/206029707)
+Verifique se as permissões do canal Discord estão corretas!\
+       _Guia de permissões do Discord:_ [https://support.discord.com/hc/en-us/articles/206029707](https://support.discord.com/hc/en-us/articles/206029707)
 
 
-**The link to add Radar bot to your server can be found [here](https://www.radarbot.xyz/)**
+**O link para adicionar o Radar Bot ao seu servidor pode ser encontrado [aqui](https://www.radarbot.xyz/)**

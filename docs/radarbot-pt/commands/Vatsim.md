@@ -2,16 +2,16 @@
 
 ### /vatsim [location] or .vatsim [location]
 
-*In this command you put a location, in my case I am putting an ICAO start, the bot will search the Vatsim API information and will show all active positions with those initials*
+*Neste comando você coloca uma localização, no meu caso estou colocando um ICAO SB, o bot irá buscar as informações da API do Vatsim e mostrará todas as posições ativas com essas iniciais*
 
 <figure markdown>
 ![Vatsim informations](../../assets/images/vatsim.png)
 
 </figure>
 
-**If you enter a that no one is connected:**
+**Se você inserir um que ninguém está conectado:**
 
-*The bot will return an error message that no one is currently connected with that callsign*
+*O bot retornará uma mensagem de erro informando que ninguém está conectado com esse indicativo*
 
 <figure markdown>
 ![Vatsim Error](../../assets/images/vatsimerror.png)
@@ -21,21 +21,21 @@
 
 
 ### /onvatsim [callsign] or .onvatsim [callsign]
-*The onvatsim command shows information of people online at Vatsim with details, for now it is working only for ATCs but we are already correcting the pilot version*
+*O comando onvatsim mostra informações de pessoas online no Vatsim com detalhes, por enquanto está funcionando apenas para ATCs mas já estamos corrigindo a versão piloto*
 
 **ATC**
 <figure markdown>
 ![OnVatsim informations](../../assets/images/onvatsim.png)
 </figure>
 
-**Pilot**
+**Piloto**
 
-*Coming Soon*
+*Em Breve*
 
 
-**If you enter a that no one is connected:**
+**Se você inserir um que ninguém está conectado:**
 
-*The bot will return an error message that no one is currently connected with that callsign*
+*O bot retornará uma mensagem de erro informando que ninguém está conectado com esse indicativo*
 
 <figure markdown>
 ![Vatsim Error](../../assets/images/onvatsimerror.png)

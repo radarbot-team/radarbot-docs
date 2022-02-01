@@ -17,5 +17,5 @@
 
 **ATC**
 <figure markdown>
-![Pilot Ivao](../../assets/images/ATCivao.png)
+![ATC Ivao](../../assets/images/ATCivao.png)
 </figure>

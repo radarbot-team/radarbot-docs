@@ -20,7 +20,7 @@
 **Equipe de UI/UX do site RadarBot**
 
 - Carolina Eguchi
-- Ruy Monteiro
+- [Ruy Monteiro](https://github.com/ruymon)
 
 **Apoiadores RadarBot**
 

@@ -1,102 +1,95 @@
-# 📸Setup Screenshots System
+# 📸Configurar o sistema de capturas de tela
 
-### What is the screenshot system?
+### Qual é o sistema de captura de tela?
 
-*The screenshot system is a way to vote for the best screenshot on the server! Where members put their photos in a channel (you can choose the channel), the bot recognizes them and adds the 3 items (Add Vote, Remove Vote and the amount of votes) soon we will talk more about them. After the bot adds the items, the vote is released when it reaches the minimum votes you chose in the configuration, this photo is sent to another channel (generally named Top-Screenshots, but it's your choice) where the best screenshots are and who decides is the members of the server itself!*
+_O sistema de captura de tela é uma forma de votar na melhor captura de tela do servidor! Onde os membros colocam suas fotos em um canal (você pode escolher o canal), o bot os reconhece e adiciona os 3 itens (Adicionar Voto, Remover Voto e a quantidade de votos) em breve falaremos mais sobre eles. Após o bot adicionar os itens, o voto é liberado quando atinge o mínimo de votos que você escolheu na configuração, essa foto é enviada para outro canal (geralmente chamado Top-Screenshots, mas a escolha é sua) onde estão as melhores screenshots e quem decide são os membros do próprio servidor!_
 
+## Configurando o sistema de captura de tela
 
-## Configuring the Screenshot System
-**First step**
+**Primeiro passo**
 
-*Create two channels, one for members to post their photos and one for the best screenshots*
-
+_Crie dois canais, um para os membros postarem suas fotos e outro para as melhores capturas de tela_
 
 ![Channels](../../assets/images/canais.png)
 
 !!! warning
-      ***WARNING***
-      For the correct functioning of the screenshot system, check that the bot's permission to send Embed Message in these channels is enabled
+      **_AVISO_**
+      
+      Para o correto funcionamento do sistema de captura de tela, verifique se a permissão do bot para enviar mensagem de incorporação nesses canais está habilitada
 
-      For this, go to the channel settings -> permissions -> Add the bot as a custom permission option -> and enable these options ```EMBED_LINK``` and ```MANAGE_MESSAGES```, as shown in the pictures below
+      Para isso, vá nas configurações do canal -> permissões -> Adicionar o bot como opção de permissãopersonalizada -> e habilite essas opções ```EMBED_LINK``` e ```MANAGE_MESSAGES```, conformemostrado nas imagens abaixo
 
       ![Embed](../../assets/images/embedlink.png)
 
 
       ![MANAGE_MESSAGES](../../assets/images/manage.png)
 
+**Segundo passo**
 
-**Second step**
+_Digite o comando de configuração para este tipo `/setupscreenshot`
+ele pedirá 3 argumentos:_
 
+- **screenshotschannel:** _Aqui você escolhe o canal onde o membro colocará suas fotos, no meu caso colocarei #capturas de tela_
 
-*Enter the setup command for this type ```/setupscreenshot``` 
-it will ask for 3 arguments:*
+- **topscreenshotschannel:** _Aqui você escolhe o canal das melhores screenshots, no meu caso vou colocar #top-screenshots_
 
-* **screenshotschannel:** *Here you choose the channel where the member will put his photos, in my case I will put #screenshots*
-
-* **topscreenshotschannel:** *Here you choose the channel of the best screenshots, in my case I will put #top-screenshots*
-
-* **minimumvotes:** *Here you choose the amount of minimum votes that you have to have for the photo to go to the channel of the best screenshots, in my case for demonstration purposes I will put 1 vote but feel free to put as many as you think necessary.*
+- **minimumvots:** _Aqui você escolhe a quantidade de votos mínimos que você tem que ter para que a foto vá para o canal dos melhores screenshots, no meu caso para fins de demonstração vou colocar 1 voto mas fique a vontade para colocar como quantos achar necessário._
 
 ![Command](../../assets/images/setupscreenshots.png)
 
-*The bot will respond:*
-![Response](../../assets/images/responsescreen.png)
+_O bot responderá:_
+![Resposta](../../assets/images/responsescreen.png)
 
-**and the system will be configured, let's test it?**
+**e o sistema estará configurado, vamos testar?**
 
-* *Put a photo in the channel set for photos*
+- _Coloque uma foto no canal definido para fotos_
 
-![Screenshot](../../assets/images/Screenshot.png)
+![Captura de tela](../../assets/images/Screenshot.png)
 
-*We can see that it is working and also the 3 elements that I had talked about earlier*
+_Podemos ver que está funcionando e também os 3 elementos que falei anteriormente_
 
-**If you click vote:**
+**Se você clicar em votar:**
 
 ![Vote add](../../assets/images/vote.png)
 
-*He registers the vote and sends a private message that it worked!*
+_Ele registra o voto e manda mensagem privada que deu certo!_
 
-**If you click vote but you already have a vote from that member:**
+**Se você clicar em votar, mas já tiver um voto desse membro:**
 
-![Vote already voted](../../assets/images/voteadd.png)
+![Vote já votado](../../assets/images/voteadd.png)
 
-*It doesn't let you add another vote, only one per member, the message is also private*
+_Não permite adicionar outro voto, apenas um por membro, a mensagem também é privada_
 
-**If you remove the vote:**
+**Se você remover o voto:**
 
-![Vote Remove](../../assets/images/remove.png)
+![Vote Remover](../../assets/images/remove.png)
 
-*He warns that he removed the vote in a private message*
+_Ele avisa que removeu o voto em mensagem privada_
 
-**If you remove the vote when you have no vote for that member:**
+**Se você remover o voto quando não tiver voto para aquele membro:**
 
-![Not Have vote](../../assets/images/nothavevote.png)
+![Não tem voto](../../assets/images/nothavevote.png)
 
-*He warns that he doesn't have any votes, also in a private message*
+_Ele avisa que não tem votos, também em mensagem privada_
 
-**And after reaching the minimum number of votes, the bot sends a photo to the channel configured for the best screenshots**
+**E após atingir o número mínimo de votos, o bot envia uma foto para o canal configurado para as melhores capturas de tela**
 
-![Top Screenshot](../../assets/images/top.png)
+![Captura de tela superior](../../assets/images/top.png)
 
-**To block text in the vote posting channel use this command:**
-![Top Screenshot](../../assets/images/notext.png)
+**Para bloquear texto no canal de postagem de votos, use este comando:**
+![Captura de tela principal](../../assets/images/notext.png)
 
-*The bot will send confirmation that it worked and every time you send a text in this channel it will delete the message sent and will send a message in private:*
+_O bot enviará a confirmação de que funcionou e toda vez que você enviar um texto neste canal ele apagará a mensagem enviada e enviará uma mensagem no privado:_
 
-![Private Message](../../assets/images/private.png)
+![Mensagem privada](../../assets/images/private.png)
 
-**If you want to disable the screenshot system use the command:** ```/deactivatescreenshots ```
+**Se você quiser desabilitar o sistema de captura de tela use o comando:** `/deactivatescreenshots `
 
+![Desativado](../../assets/images/desactive.png)
 
-![Desactive](../../assets/images/desactive.png)
+_Enviará o comando e será desabilitado_
 
-*It will send the command and it will be disabled*
+!!! aviso
+Somente administradores de servidor (usuários com permissão de `ADMINISTRATOR`) podem definir o Sistema de Captura de Tela
 
-
-!!! warning
-      Only server administrators (users with`ADMINISTRATOR`permission) can set Screenshot System
-
-
-*If you have any questions, join our support server by clicking [here](https://discord.com/invite/DEtGv4wUNX)*
-
-
+_Se você tiver alguma dúvida, junte-se ao nosso servidor de suporte clicando [aqui](https://discord.com/invite/DEtGv4wUNX)_

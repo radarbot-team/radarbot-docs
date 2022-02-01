@@ -1,20 +1,20 @@
-# 😀Change Prefix
+# 😀Alterar prefixo
 
 
-**To change the bot's prefix, use this command:**&#x20;
+**Para alterar o prefixo do bot, use este comando:**&#x20;
 
-!!! example "Change Prefix"
+!!! example  "Alterar prefixo"
 
-     /prefix [_new_prefix_]
+      /prefixo [_novo_prefixo_]
 
 ![Setup Prefix](../../assets/images/prefix.png)
 
-**The bot will respond:**
+**O bot responderá:**
 
 ![Setup Prefix](../../assets/images/responsebotprefix.png)
 
 
-**And ready you changed the profile on your server**
+**E pronto você mudou o prefixo no seu servidor**
 
-!!! warning "Attention"
-      Only server administrators (users with`ADMINISTRATOR`permission) can modify RadarBot prefix settings!
+!!! warning "Atenção"
+       Somente administradores de servidor (usuários com permissão de `ADMINISTRATOR`) podem modificar as configurações de prefixo do RadarBot!

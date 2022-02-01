@@ -3,7 +3,7 @@
 
 
 
-*Não é exatamente um comando, mas se você quiser encontrar o link do Radar Bot diretamente pelo discord, basta clicar no nome do Radar Bot em qualquer mensagem e depois em "Add to Serve"*
+*Não é exatamente um comando, mas se você quiser encontrar o link do Radar Bot diretamente pelo discord, basta clicar no nome do Radar Bot em qualquer mensagem e depois em "Add to Server"*
 
 <figure markdown>
   ![Add to server](../../assets/images/add.png) 
@@ -12,7 +12,7 @@
 
 ### .donate or /donate
 
-*Se você quer ajudar no desenvolvimento e continuar online 24 horas por dia, o Paypal tem duas opções e você pode ser um MemberShip Radar Bot, tendo benefícios como Posição de Apoiador no servidor Bot, Acesso antecipado a novas atualizações entre outros benefícios, Se você fosse, você daria uma olhada?*
+*Se você quer ajudar no desenvolvimento e continuar online 24 horas por dia, temos as opções  de Paypal ou ainda você pode ser um MemberShip Radar Bot, tendo benefícios como Posição de Apoiador no servidor Bot, Acesso antecipado a novas atualizações entre outros benefícios, Se você fosse, você daria uma olhada?*
 <figure markdown>
 ![Donate](../../assets/images/donate.png)
 </figure>
