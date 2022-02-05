@@ -5,7 +5,7 @@
 *Neste comando você coloca uma localização, neste caso foi colocado o ICAO SB, o bot irá buscar as informações da API do Vatsim e mostrará todas as posições ativas com essas iniciais*
 
 <figure markdown>
-![Vatsim informations](../../assets/images/vatsim.png)
+![Vatsim informations](../../assets/images/portuguese/vatsim.png)
 
 </figure>
 
@@ -14,7 +14,7 @@
 *O bot retornará uma mensagem de erro informando que ninguém está conectado com esse indicativo*
 
 <figure markdown>
-![Vatsim Error](../../assets/images/vatsimerror.png)
+![Vatsim Error](../../assets/images/portuguese/vatsimerror.png)
 </figure>
 
 
@@ -25,7 +25,7 @@
 
 **ATC**
 <figure markdown>
-![OnVatsim informations](../../assets/images/onvatsim.png)
+![OnVatsim informations](../../assets/images/portuguese/onvatsim.png)
 </figure>
 
 **Piloto**
@@ -38,5 +38,5 @@
 *O bot retornará uma mensagem de erro informando que ninguém está conectado com esse indicativo*
 
 <figure markdown>
-![Vatsim Error](../../assets/images/onvatsimerror.png)
+![Vatsim Error](../../assets/images/portuguese/onvatsimerror.png)
 </figure>

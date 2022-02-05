@@ -7,13 +7,13 @@
 Esse comando tem a função mostrar o prefixo configurado de colocado desta forma:
 
 <figure markdown>
-![Prefixo](../../assets/images/prefixview.png)
+![Prefixo](../../assets/images/portuguese/prefixview.png)
 </figure>
 
 Ou se você colocar ```.prefix [prefix]``` o bot irá alterar o prefixo se você quiser um guia detalhado para alterar o prefixo clique [aqui](../../guides/change-prefix)
 
 <figure markdown>
-![Setando o prefixo](../../assets/images/setprefix.png)
+![Setando o prefixo](../../assets/images/portuguese/setprefix.png)
 </figure>
 
 
@@ -26,7 +26,7 @@ Ou se você colocar ```.prefix [prefix]``` o bot irá alterar o prefixo se você
 
 
 <figure markdown>
-![Cargo](../../assets/images/role.png)
+![Cargo](../../assets/images/portuguese/role.png)
 </figure>
 
 
@@ -36,7 +36,7 @@ Ou se você colocar ```.prefix [prefix]``` o bot irá alterar o prefixo se você
       Mudei [comando] para taf para fazer a demonstração
 
 <figure markdown>
-![Setando Cargo](../../assets/images/setrole.png)
+![Setando Cargo](../../assets/images/portuguese/setrole.png)
 </figure>
 
 ### .language or /language
@@ -47,7 +47,7 @@ Ou se você colocar ```.prefix [prefix]``` o bot irá alterar o prefixo se você
 *Para saber o idioma que o Radar Bot está usando no servidor use este comando*
 
 <figure markdown>
-![Linguagem](../../assets/images/language.png)
+![Linguagem](../../assets/images/portuguese/language.png)
 </figure>
 
 !!! note "Nota"
@@ -64,13 +64,13 @@ Ou se você colocar ```.prefix [prefix]``` o bot irá alterar o prefixo se você
 ***.command <"enable" or "disable"> <"Nome do Comando">***
 
 <figure markdown>
-![Comando](../../assets/images/discommand.png)
+![Comando](../../assets/images/portuguese/discommand.png)
 </figure>
 
 *e o bot responderá:*
 
 <figure markdown>
-![Comando](../../assets/images/rescommand.png)
+![Comando](../../assets/images/portuguese/rescommand.png)
 </figure>
 
 
@@ -82,11 +82,11 @@ Ou se você colocar ```.prefix [prefix]``` o bot irá alterar o prefixo se você
 *Para permitir ou não um comando em um canal específico do seu servidor use este comando*
 
 <figure markdown>
-![Canal Somente](../../assets/images/channelonly.png)
+![Canal Somente](../../assets/images/portuguese/channelonly.png)
 </figure>
 
 *e o bot responderá:*
 
 <figure markdown>
-![Resposta Canal Somente](../../assets/images/reschannel.png)
+![Resposta Canal Somente](../../assets/images/portuguese/reschannel.png)
 </figure>

@@ -7,11 +7,11 @@
 
       /prefixo [_novo_prefixo_]
 
-![Setup Prefix](../../assets/images/prefix.png)
+![Setup Prefix](../../assets/images/portuguese/prefix.png)
 
 **O bot responderá:**
 
-![Setup Prefix](../../assets/images/responsebotprefix.png)
+![Setup Prefix](../../assets/images/portuguese/responsebotprefix.png)
 
 
 **E pronto você mudou o prefixo no seu servidor**

@@ -2,7 +2,7 @@
 
 *Are you flying or controlling and want to know quickly the metar, taf and Zulu time, just type the brief command and the ICAO of the airport you want this information and in a few seconds the bot will return:*
 <figure markdown>
-![Brief](../../assets/images/brief.png)
+![Brief](../../assets/images/english/brief.png)
 </figure>
 
 ### .metar[ICAO] or /metar[ICAO]
@@ -10,14 +10,14 @@
 *Want more details of airport metar, or rather already decoded just type metar command, it will reply with metar already decoded for you*
 
 <figure markdown>
-![Metar](../../assets/images/metar.png)
+![Metar](../../assets/images/english/metar.png)
 </figure>
 
 ### .taf[ICAO] or /taf[ICAO]
 
 *If the metar command was not enough, we have the taf command, it will send the decoded taf to facilitate your simulation*
 <figure markdown>
-![Taf](../../assets/images/taf.png)
+![Taf](../../assets/images/english/taf.png)
 </figure>
 
 
@@ -29,7 +29,7 @@
 
 *To have the letters from the USA and Brazil directly in discord, use our command of letters, the bot will make a pagination with the letters received via API to navigate between the pages use the buttons below the message*
 <figure markdown>
-![Charts](../../assets/images/charts.png)
+![Charts](../../assets/images/english/charts.png)
 </figure>
 
 !!! note

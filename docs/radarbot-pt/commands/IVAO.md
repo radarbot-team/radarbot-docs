@@ -2,7 +2,7 @@
 
 *Este comando mostra informações de uma ICAO ou início de uma, tirando essas informações da API da IVAO, como você pode ver na foto abaixo:*
 <figure markdown>
-![Ivao](../../assets/images/ivao.png)
+![Ivao](../../assets/images/portuguese/ivao.png)
 </figure>
 
 ### /onivao[ICAO] or .onivao[ICAO]
@@ -11,11 +11,11 @@
 
 **Pilot**
 <figure markdown>
-![Pilot Ivao](../../assets/images/pilotivao.png)
+![Pilot Ivao](../../assets/images/portuguese/pilotivao.png)//Arrumar
 </figure>
 
 
 **ATC**
 <figure markdown>
-![ATC Ivao](../../assets/images/ATCivao.png)
+![ATC Ivao](../../assets/images/portuguese/ATCivao.png)
 </figure>

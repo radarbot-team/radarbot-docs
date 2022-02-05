@@ -5,7 +5,7 @@
 *In this command you put a location, in my case I am putting an ICAO start, the bot will search the Vatsim API information and will show all active positions with those initials*
 
 <figure markdown>
-![Vatsim informations](../../assets/images/vatsim.png)
+![Vatsim informations](../../assets/images/english/vatsim.png)
 
 </figure>
 
@@ -14,7 +14,7 @@
 *The bot will return an error message that no one is currently connected with that callsign*
 
 <figure markdown>
-![Vatsim Error](../../assets/images/vatsimerror.png)
+![Vatsim Error](../../assets/images/english/vatsimerror.png)
 </figure>
 
 
@@ -25,7 +25,7 @@
 
 **ATC**
 <figure markdown>
-![OnVatsim informations](../../assets/images/onvatsim.png)
+![OnVatsim informations](../../assets/images/english/onvatsim.png)
 </figure>
 
 **Pilot**
@@ -38,5 +38,5 @@
 *The bot will return an error message that no one is currently connected with that callsign*
 
 <figure markdown>
-![Vatsim Error](../../assets/images/onvatsimerror.png)
+![Vatsim Error](../../assets/images/english/onvatsimerror.png)
 </figure>
