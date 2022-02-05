@@ -6,13 +6,13 @@
 This command is to show the configured prefix if placed this way:
 
 <figure markdown>
-![Prefix](../../assets/images/prefixview.png)
+![Prefix](../../assets/images/english/prefixview.png)
 </figure>
 
 Or if you put ```.prefix [prefix]``` the bot will change the prefix if you want a detailed guide to change the prefix click [here](../../guides/change-prefix)
 
 <figure markdown>
-![Set Prefix](../../assets/images/setprefix.png)
+![Set Prefix](../../assets/images/english/setprefix.png)
 </figure>
 
 
@@ -25,7 +25,7 @@ Or if you put ```.prefix [prefix]``` the bot will change the prefix if you want 
 
 
 <figure markdown>
-![Role](../../assets/images/role.png)
+![Role](../../assets/images/english/role.png)
 </figure>
 
 
@@ -35,7 +35,7 @@ Or if you put ```.prefix [prefix]``` the bot will change the prefix if you want 
       I changed [command] to taf to do the demo
 
 <figure markdown>
-![Set Role](../../assets/images/setrole.png)
+![Set Role](../../assets/images/english/setrole.png)
 </figure>
 
 ### .language or /language
@@ -46,7 +46,7 @@ Or if you put ```.prefix [prefix]``` the bot will change the prefix if you want 
 *To know the language that Radar Bot is using on the server use this command*
 
 <figure markdown>
-![Language](../../assets/images/language.png)
+![Language](../../assets/images/english/language.png)
 </figure>
 
 !!! note "Note"
@@ -63,13 +63,13 @@ Or if you put ```.prefix [prefix]``` the bot will change the prefix if you want 
 ***.command <"enable" or "disable"> <"Command Name">***
 
 <figure markdown>
-![Command](../../assets/images/discommand.png)
+![Command](../../assets/images/english/discommand.png)
 </figure>
 
 *and the bot will respond:*
 
 <figure markdown>
-![Command](../../assets/images/rescommand.png)
+![Command](../../assets/images/english/rescommand.png)
 </figure>
 
 
@@ -81,11 +81,11 @@ Or if you put ```.prefix [prefix]``` the bot will change the prefix if you want 
 *To allow or not a command in a specific channel of your server use this command*
 
 <figure markdown>
-![Channel Only](../../assets/images/channelonly.png)
+![Channel Only](../../assets/images/english/channelonly.png)
 </figure>
 
 *and the bot will respond:*
 
 <figure markdown>
-![Channel Only Response](../../assets/images/reschannel.png)
+![Channel Only Response](../../assets/images/english/reschannel.png)
 </figure>
