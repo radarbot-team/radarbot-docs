@@ -1,6 +1,6 @@
 *Em nome de toda a equipe que ajudou a construir o bot de radar, muito obrigado!*
 
-**Desenvolvimento do core RadarBot:**
+**Desenvolvimento do core e criador do RadarBot**
 
 - [André Felipe Brito](https://github.com/andrebrito16)
 

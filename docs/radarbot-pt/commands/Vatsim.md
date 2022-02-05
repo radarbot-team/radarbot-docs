@@ -2,7 +2,7 @@
 
 ### /vatsim [location] or .vatsim [location]
 
-*Neste comando você coloca uma localização, no meu caso estou colocando um ICAO SB, o bot irá buscar as informações da API do Vatsim e mostrará todas as posições ativas com essas iniciais*
+*Neste comando você coloca uma localização, neste caso foi colocado o ICAO SB, o bot irá buscar as informações da API do Vatsim e mostrará todas as posições ativas com essas iniciais*
 
 <figure markdown>
 ![Vatsim informations](../../assets/images/vatsim.png)

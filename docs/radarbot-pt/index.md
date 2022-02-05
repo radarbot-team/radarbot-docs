@@ -11,5 +11,5 @@ description: Desenvolvido por afbb#0987
 !!! note
 
       **O que é o Radar Bot?** A próxima geração de utilitários para Simuleiros.
-        Um bot Discord avançado em vários idiomas Feito por amantes da simulação de voo para amantes da simulação de voo [Convide RadarBot](https://bit.ly/RadarBotInvite)
+        Um bot Discord avançado em vários idiomas feito por amantes da simulação de voo para amantes da simulação de voo, [adicione o RadarBot ao seu servidor](https://bit.ly/RadarBotInvite)
 
