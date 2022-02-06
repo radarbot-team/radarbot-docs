@@ -7,11 +7,11 @@
 
      /prefix [_new_prefix_]
 
-![Setup Prefix](../../assets/images/prefix.png)
+![Setup Prefix](../../assets/images/english/prefix.png)
 
 **The bot will respond:**
 
-![Setup Prefix](../../assets/images/responsebotprefix.png)
+![Setup Prefix](../../assets/images/english/responsebotprefix.png)
 
 
 **And ready you changed the profile on your server**
