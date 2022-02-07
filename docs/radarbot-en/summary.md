@@ -5,7 +5,7 @@
 
 ## Guides
 
-* [💡Setup Guide](guides/setup-guide.md)
+* [💡Setup Guide](guides/index.md)
 * [😀Change Prefix](guides/change-prefix.md)
 * [📸Setup Screnshot System](guides/setup-screenshots.md)
 
