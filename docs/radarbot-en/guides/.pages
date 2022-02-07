@@ -1,6 +1,6 @@
 title: Guides
 nav:
-  - index.md
-  - change-prefix.md
-  - setup-screenshots.md
+  - Guides: index.md
+  - Change Prefix: change-prefix.md
+  - Setup Screenshots: setup-screenshots.md
   - ...
