@@ -2,7 +2,7 @@ title: RadarBot - Documentação
 nav:
   - Seja Bem Vindo: index.md
   - Sumário: summary.md
-    commands
+  - commands
   - faq.md
   - guides
   - changelog
