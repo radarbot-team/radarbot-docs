@@ -1,5 +1,5 @@
 title: Guide
 nav:
+  - Setup Guild: index.md
   - change-prefix.md
-  - setup-guide.md
   - setup-screenshots.md

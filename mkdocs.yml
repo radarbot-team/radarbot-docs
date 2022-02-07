@@ -37,6 +37,9 @@ plugins:
   - awesome-pages
   - git-revision-date-localized:
       type: date
+  - redirects:
+    - redirect_maps:
+      'start/guides': 'radarbot-en/guides/index.md'
 
 markdown_extensions:
   - admonition
