@@ -1,5 +1,6 @@
-title: Guide
+title: Guides
 nav:
   - index.md
   - change-prefix.md
   - setup-screenshots.md
+  - ...
