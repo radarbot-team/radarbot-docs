@@ -37,7 +37,7 @@
 * `MANAGE_CHANNELS`
 
 !!! warning
-Verifique se as permissões do canal Discord estão corretas!\
+      Verifique se as permissões do canal Discord estão corretas!
        _Guia de permissões do Discord:_ [https://support.discord.com/hc/en-us/articles/206029707](https://support.discord.com/hc/en-us/articles/206029707)
 
 
