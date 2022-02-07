@@ -1,1 +1,3 @@
 # RadarBot Commands
+
+- Commands
