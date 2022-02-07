@@ -39,7 +39,7 @@ plugins:
       type: date
   - redirects:
       redirect_maps:
-        'start/guides.md': 'radarbot-en/guides/index.md'
+        'guides.md': 'radarbot-en/guides/index.md'
 
 markdown_extensions:
   - admonition
