@@ -5,7 +5,7 @@
 
 ## Guias
 
-* [💡Guia de Instalação](guides/setup-guide.md)
+* [💡Guia de Instalação](guides/index.md)
 * [😀Mudanção de prefixo](guides/change-prefix.md)
 * [📸Instalação do Sistema de Screenshots](guides/setup-screenshots.md)
 
