@@ -85,7 +85,8 @@ const config = {
       colorMode: {
         defaultMode: 'dark',
         disableSwitch: false,
-      }
+      },
+      "onBrokenLinks": "ignore",
     }),
 };
 
