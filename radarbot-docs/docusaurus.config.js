@@ -10,12 +10,11 @@ const config = {
   tagline: 'Dinosaurs are cool',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'facebook', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
-
   presets: [
     [
       'classic',
@@ -86,7 +85,6 @@ const config = {
         defaultMode: 'dark',
         disableSwitch: false,
       },
-      onBrokenLinks: "ignore",
     }),
 };
 
