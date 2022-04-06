@@ -6,15 +6,33 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
+  title: 'Radar Bot Documentation',
   tagline: 'Dinosaurs are cool',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'radar bot', // Usually your GitHub org/user name.
+  projectName: 'radar-bot-docs', // Usually your repo name.
+  i18n: {
+    defaultLocale: 'en',
+    locales: ['en', 'pt-br'],
+    localeConfigs: {
+      en: {
+ 
+        direction: 'ltr',
+        htmlLang: 'en-US',
+      },
+      pt: {
+    
+
+        htmlLang: 'pt-BR',
+      },
+    },
+
+
+  },
   presets: [
     [
       'classic',
@@ -55,12 +73,17 @@ const config = {
             label: 'Tutorial',
           },
           {
+            type: 'localeDropdown',
+            position: 'right',
+          },
+          {
             href: 'https://github.com/radarbot-team/radarbot-docs',
             label: 'GitHub',
             position: 'right',
           },
         ],
       },
+    
       footer: {
         style: 'dark',
         links: [
