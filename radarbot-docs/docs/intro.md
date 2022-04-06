@@ -1,8 +1,8 @@
 ---
 sidebar_position: 1
+title: RadarBot documentation
 ---
 
-# RadarBot documentation
 
 ## RadarBot overview
 

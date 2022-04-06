@@ -1,3 +1,6 @@
+---
+title: IVAO
+---
 ### /ivao[location] or .ivao[location]
 
 *This command shows information from an ICAO or beginning of one, taking this information from the IVAO API, as you can see in the photo below:*

@@ -1,4 +1,6 @@
-
+---
+title: Vatsim
+---
 
 ### /vatsim [location] or .vatsim [location]
 

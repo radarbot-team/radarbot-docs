@@ -1,3 +1,6 @@
+---
+title: Configuration
+---
 ### .prefix or /prefix 
 
 !!! warning "Attention"

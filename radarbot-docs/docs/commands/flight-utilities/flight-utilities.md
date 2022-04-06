@@ -1,3 +1,6 @@
+---
+title: Flight Utilities
+---
 ### .brief[ICAO] or /brief[ICAO]
 
 *Are you flying or controlling and want to know quickly the metar, taf and Zulu time, just type the brief command and the ICAO of the airport you want this information and in a few seconds the bot will return:*

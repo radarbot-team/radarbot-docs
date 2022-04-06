@@ -1,3 +1,6 @@
+---
+title: Screenshots
+---
 !!! warning "Attention"
       Only server administrators (users with`ADMINISTRATOR`permission) can modify RadarBot Screenshots System!
 
