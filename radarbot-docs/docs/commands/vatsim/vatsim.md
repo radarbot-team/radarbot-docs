@@ -2,7 +2,7 @@
 title: Vatsim
 ---
 
-### /vatsim [location] or .vatsim [location]
+### /vatsim [location]
 
 *In this command you put a location, in my case I am putting an ICAO start, the bot will search the Vatsim API information and will show all active positions with those initials*
 
@@ -22,7 +22,7 @@ title: Vatsim
 
 
 
-### /onvatsim [callsign] or .onvatsim [callsign]
+### /onvatsim [callsign]
 *The onvatsim command shows information of people online at Vatsim with details, for now it is working only for ATCs but we are already correcting the pilot version*
 
 **ATC**

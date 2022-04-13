@@ -15,20 +15,20 @@ title: 📸Setup Screenshots System
 *Create two channels, one for members to post their photos and one for the best screenshots*
 
 
-[Channels](../../assets/images/english/canais.png)
+![Channels](../../assets/guides/english/canais.png)
 
-!!! warning
-      ***WARNING***
-      For the correct functioning of the screenshot system, check that the bot's permission to send Embed Message in these channels is enabled
+:::caution
+     
+For the correct functioning of the screenshot system, check that the bot's permission to send Embed Message in these channels is enabled
 
-      For this, go to the channel settings -> permissions -> Add the bot as a custom permission option -> and enable these options ```EMBED_LINK``` and ```MANAGE_MESSAGES```, as shown in the pictures below
+For this, go to the channel settings -> permissions -> Add the bot as a custom permission option -> and enable these options ```EMBED_LINK``` and ```MANAGE_MESSAGES```, as shown in the pictures below
 
-      [Embed](../../assets/images/english/embedlink.png)
-
-
-      [MANAGE_MESSAGES](../../assets/images/english/manage.png)
+![Embed](../../assets/guides/english/embedlink.png)
 
 
+![MANAGE_MESSAGES](../../assets/guides/english/manage.png)
+
+:::
 **Second step**
 
 
@@ -41,64 +41,67 @@ it will ask for 3 arguments:*
 
 * **minimumvotes:** *Here you choose the amount of minimum votes that you have to have for the photo to go to the channel of the best screenshots, in my case for demonstration purposes I will put 1 vote but feel free to put as many as you think necessary.*
 
-[Command](../../assets/images/english/setupscreenshots.png)
+![Command](../../assets/guides/english/setupscreenshots.png)
 
 *The bot will respond:*
-[Response](../../assets/images/english/responsescreen.png)
+![Response](../../assets/guides/english/responsescreen.png)
 
 **and the system will be configured, let's test it?**
 
 * *Put a photo in the channel set for photos*
 
-[Screenshot](../../assets/images/english/Screenshot.png)
+![Screenshot](../../assets/guides/english/Screenshot.png)
 
 *We can see that it is working and also the 3 elements that I had talked about earlier*
 
 **If you click vote:**
 
-[Vote add](../../assets/images/english/vote.png)
+![Vote add](../../assets/guides/english/vote.png)
 
 *He registers the vote and sends a private message that it worked!*
 
 **If you click vote but you already have a vote from that member:**
 
-[Vote already voted](../../assets/images/english/voteadd.png)
+![Vote already voted](../../assets/guides/english/voteadd.png)
 
 *It doesn't let you add another vote, only one per member, the message is also private*
 
 **If you remove the vote:**
 
-[Vote Remove](../../assets/images/english/remove.png)
+![Vote Remove](../../assets/guides/english/remove.png)
 
 *He warns that he removed the vote in a private message*
 
 **If you remove the vote when you have no vote for that member:**
 
-[Not Have vote](../../assets/images/english/nothavevote.png)
+![Not Have vote](../../assets/guides/english/nothavevote.png)
 
 *He warns that he doesn't have any votes, also in a private message*
 
 **And after reaching the minimum number of votes, the bot sends a photo to the channel configured for the best screenshots**
 
-[Top Screenshot](../../assets/images/english/top.png)
+![Top Screenshot](../../assets/guides/english/top.png)
 
 **To block text in the vote posting channel use this command:**
-[Top Screenshot](../../assets/images/english/notext.png)
+![Top Screenshot](../../assets/guides/english/notext.png)
 
 *The bot will send confirmation that it worked and every time you send a text in this channel it will delete the message sent and will send a message in private:*
 
-[Private Message](../../assets/images/english/private.png)
+![Private Message](../../assets/guides/english/private.png)
 
 **If you want to disable the screenshot system use the command:** ```/deactivatescreenshots ```
 
 
-[Desactive](../../assets/images/english/desactive.png)
+![Desactive](../../assets/guides/english/desactive.png)
 
 *It will send the command and it will be disabled*
 
 
-!!! warning
-      Only server administrators (users with`ADMINISTRATOR`permission) can set Screenshot System
+:::caution
+
+Only server administrators (users with`ADMINISTRATOR`permission) can set Screenshot System
+
+:::
 
 
 *If you have any questions, join our support server by clicking [here](https://discord.com/invite/DEtGv4wUNX)*

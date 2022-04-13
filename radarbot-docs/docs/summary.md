@@ -6,7 +6,7 @@ sidebar_position: 2
 
 # Table of contents
 
-* [RadarBot documentation](index.md)
+* [RadarBot documentation](intro.md)
 * [❓Frequently Asked Questions](faq.md)
 
 ## Guides
