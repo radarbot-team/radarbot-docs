@@ -88,6 +88,7 @@ const config = {
         style: 'dark',
         links: [
           {
+            
             title: 'Docs',
             items: [
               {
@@ -96,8 +97,16 @@ const config = {
               },
             ],
           },
+          
         ],
+        
         copyright: `Copyright © ${new Date().getFullYear()} RadarBot.`,
+        
+        logo: {
+          
+          src:"img/vercel-light-logo.svg",
+          alt: "Vercel Logo",
+        }
       },
       prism: {
         theme: darkCodeTheme,
