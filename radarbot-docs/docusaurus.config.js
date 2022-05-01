@@ -6,16 +6,33 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Radar Bot Documentation',
+  tagline: 'Radar Bot',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  favicon: 'img/RadarBotLogo.png',
+  organizationName: 'radar bot', // Usually your GitHub org/user name.
+  projectName: 'radar-bot-docs', // Usually your repo name.
+  i18n: {
+    defaultLocale: 'en',
+    locales: ['en', 'pt-br'],
+    localeConfigs: {
+      en: {
+ 
+        direction: 'ltr',
+        htmlLang: 'en-US',
+      },
+      pt: {
+    
 
+        htmlLang: 'pt-BR',
+      },
+    },
+
+
+  },
   presets: [
     [
       'classic',
@@ -24,7 +41,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/radarbot-team/radarbot-docs/tree/docs-v2-master/radarbot-docs',
         },
         blog: {
           showReadingTime: true,
@@ -43,7 +60,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'RadarBot docs',
+        title: 'RadarBot Docs',
         logo: {
           alt: 'RadarBot documentation website',
           src: 'img/RadarBotLogo.png',
@@ -53,9 +70,12 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Docs',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            type: 'localeDropdown',
+            position: 'right',
+          },
           {
             href: 'https://github.com/radarbot-team/radarbot-docs',
             label: 'GitHub',
@@ -63,10 +83,12 @@ const config = {
           },
         ],
       },
+    
       footer: {
         style: 'dark',
         links: [
           {
+            
             title: 'Docs',
             items: [
               {
@@ -75,8 +97,17 @@ const config = {
               },
             ],
           },
+          
         ],
+        
         copyright: `Copyright © ${new Date().getFullYear()} RadarBot.`,
+        
+        logo: {
+          
+          src:"img/vercel-light-logo.svg",
+          alt: "Vercel Logo",
+          href: "https://vercel.com/?utm_source=radarbot-team&utm_campaign=oss"
+        }
       },
       prism: {
         theme: darkCodeTheme,
@@ -85,7 +116,7 @@ const config = {
       colorMode: {
         defaultMode: 'dark',
         disableSwitch: false,
-      }
+      },
     }),
 };
 

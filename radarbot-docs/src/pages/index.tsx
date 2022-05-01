@@ -4,26 +4,8 @@ import Layout from '@theme/Layout';
 import clsx from 'clsx';
 import React from 'react';
 import styles from './home.module.css';
-import CodeIcon from '../components/icons/CodeIcon'
 
-function HomepageHeader() {
-  const { siteConfig } = useDocusaurusContext();
-  return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
-      <div className="container">
-        <h1 className="hero__title">{siteConfig.title}</h1>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
-          </Link>
-        </div>
-      </div>
-    </header>
-  );
-}
+
 
 export default function Home(): JSX.Element {
   const { siteConfig } = useDocusaurusContext();
@@ -55,7 +37,7 @@ export default function Home(): JSX.Element {
 
             <div className={styles.buttons}>
               <button className={clsx(styles.btn__hover, styles.btn__hover__color)}><a href="https://bit.ly/RadarBotInvite" className={styles.button}>Add to Discord</a></button>
-              <button className={clsx(styles.btn__hover, styles.btn__hover__color)}><a href="{{ page.next_page.url | url }}"
+              <button className={clsx(styles.btn__hover, styles.btn__hover__color)}><a href="docs/intro"
                 title="{{ page.next_page.title | striptags }}"
               >Documentation</a></button>
             </div>
