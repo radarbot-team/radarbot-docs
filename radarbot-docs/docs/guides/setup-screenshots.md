@@ -82,7 +82,17 @@ it will ask for 3 arguments:*
 
 ![Top Screenshot](../../assets/guides/english/top.png)
 
+**If you want to delete an image you just uploaded, just click on the delete button and your image will be deleted.**
+
+![Delete](../../assets/guides/english/delete.png)
+
+**But if the photo is not yours and you try to delete the bot, it will respond:**
+
+![Delete Not My](../../assets/guides/english/deletenotmy.png)
+
+
 **To block text in the vote posting channel use this command:**
+
 ![Top Screenshot](../../assets/guides/english/notext.png)
 
 *The bot will send confirmation that it worked and every time you send a text in this channel it will delete the message sent and will send a message in private:*

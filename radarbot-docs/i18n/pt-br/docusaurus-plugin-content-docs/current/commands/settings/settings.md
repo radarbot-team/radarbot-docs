@@ -1,26 +1,28 @@
 ---
-title: Settings
+title: Configurações
 ---
 ### /setlanguage
 
 
-!!! note
-    This command is available by Slash Commands, make sure the bot is allowed to use this type of command on your server
-!!! warning
-    Only server administrators (users with`ADMINISTRATOR`permission) can modify Language the RadarBot!
+:::note
+Este comando está disponível por Slash Commands, verifique se o bot tem permissão para usar esse tipo de comando em seu servidor
+:::
+
+:::caution
+Apenas administradores de servidor (usuários com permissão de `ADMINISTRATOR`) podem modificar o idioma do RadarBot!
+:::
+
+*Este comando é usado para definir um idioma no servidor (português, inglês, espanhol e francês já estão disponíveis, mas em breve com outros), para definir um tipo de idioma ``/setlanguege`` e o bot responderá:*
 
 
-*This command is used to set a language on the server (Portuguese, English, Spanish and French are now available, but soon with others), to set a language type ``/setlanguege`` and the bot will respond:*
-<figure markdown>
-![Set Language](../../assets/images/english/setlanguage.png)
-</figure>
+![Set Language](../../../../../../assets/docs/portuguese/settings/setlanguage.png)
 
-*Click on the **Please select a language** option and an option box will open with the available languages:*
-<figure markdown>
-![Set Language Options](../../assets/images/english/options.png)
-</figure>
 
-*Choose the language that fits your server in my case I will choose Portuguese and the bot will respond that the language has been changed*
-<figure markdown>
-![Response Language](../../assets/images/english/reslanguage.png)
-</figure>
+*Clique na opção **Selecione um idioma** e uma caixa de opções será aberta com os idiomas disponíveis:*
+
+![Set Language Options](../../../../../../assets/docs/portuguese/settings/options.png)
+
+
+*Escolha o idioma que mais se adequa ao seu servidor no meu caso vou escolher português e o bot responderá que o idioma foi alterado*
+
+![Response Language](../../../../../../assets/docs/portuguese/settings/reslanguage.png)

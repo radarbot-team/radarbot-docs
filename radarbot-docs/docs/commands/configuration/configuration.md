@@ -77,7 +77,7 @@ Only server administrators (users with `ADMINISTRATOR` permission) can modify Ra
 
 
 
-### .channelonly or /channelonly
+### /channelonly
 
 :::caution
 

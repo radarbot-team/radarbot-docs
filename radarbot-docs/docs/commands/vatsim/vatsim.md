@@ -6,18 +6,17 @@ title: Vatsim
 
 *In this command you put a location, in my case I am putting an ICAO start, the bot will search the Vatsim API information and will show all active positions with those initials*
 
-<figure markdown>
-![Vatsim informations](../../assets/images/english/vatsim.png)
+![Vatsim informations](../../../assets/docs/english/vatsim/vatsim.png)
 
-</figure>
+
 
 **If you enter a that no one is connected:**
 
 *The bot will return an error message that no one is currently connected with that callsign*
 
-<figure markdown>
-![Vatsim Error](../../assets/images/english/vatsimerror.png)
-</figure>
+
+![Vatsim Error](../../../assets/docs/english/vatsim/vatsimerror.png)
+
 
 
 
@@ -26,9 +25,9 @@ title: Vatsim
 *The onvatsim command shows information of people online at Vatsim with details, for now it is working only for ATCs but we are already correcting the pilot version*
 
 **ATC**
-<figure markdown>
-![OnVatsim informations](../../assets/images/english/onvatsim.png)
-</figure>
+
+![OnVatsim informations](../../../assets/docs/english/vatsim/onvatsim.png)
+
 
 **Pilot**
 
@@ -39,6 +38,5 @@ title: Vatsim
 
 *The bot will return an error message that no one is currently connected with that callsign*
 
-<figure markdown>
-![Vatsim Error](../../assets/images/english/onvatsimerror.png)
-</figure>
+
+![Vatsim Error](../../../assets/docs/english/vatsim/onvatsimerror.png)

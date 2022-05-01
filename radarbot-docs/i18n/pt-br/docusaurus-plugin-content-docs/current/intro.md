@@ -4,8 +4,8 @@ title: Documentação Radar Bot
 ---
 
 
-## RadarBot overview
+## Visão geral do RadarBot
 
-### Welcome to the official help center of RadarBot!
+### Bem-vindo ao centro de ajuda oficial do RadarBot!
 
-### ** What's RadarBot?** The Next Generation of Utilities for Flight Simmers. A multi language advanced Discord bot Made by Flight Simmers for Flight Simmers [Invite RadarBot](https://bit.ly/RadarBotInvite)
+### ** O que é RadarBot?** A próxima geração de utilitários para Simuleiros. Um bot para o  Discord avançado em vários idiomas Feito por Simuleiros para Simuleiros [Convide RadarBot](https://bit.ly/RadarBotInvite)

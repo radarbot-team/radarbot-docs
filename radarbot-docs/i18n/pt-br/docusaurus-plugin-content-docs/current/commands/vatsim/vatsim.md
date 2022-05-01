@@ -2,43 +2,41 @@
 title: Vatsim
 ---
 
-### /vatsim [location] or .vatsim [location]
+### /vatsim [location]
 
-*In this command you put a location, in my case I am putting an ICAO start, the bot will search the Vatsim API information and will show all active positions with those initials*
+*Neste comando você coloca uma localização, no meu caso estou colocando um começo de um ICAO, o bot irá buscar as informações da API do Vatsim e mostrará todas as posições ativas com essas iniciais*
 
-<figure markdown>
-![Vatsim informations](../../assets/images/english/vatsim.png)
+![Vatsim informations](../../../../../../assets/docs/portuguese/vatsim/vatsim.png)
 
-</figure>
 
-**If you enter a that no one is connected:**
 
-*The bot will return an error message that no one is currently connected with that callsign*
+**Se você inserir um que ninguém está conectado:**
 
-<figure markdown>
-![Vatsim Error](../../assets/images/english/vatsimerror.png)
-</figure>
+*O bot retornará uma mensagem de erro informando que ninguém está conectado com esse indicativo*
+
+
+![Vatsim Error](../../../../../../assets/docs/portuguese/vatsim/vatsimerror.png)
 
 
 
 
-### /onvatsim [callsign] or .onvatsim [callsign]
-*The onvatsim command shows information of people online at Vatsim with details, for now it is working only for ATCs but we are already correcting the pilot version*
+
+### /onvatsim [callsign]
+*O comando onvatsim mostra informações de pessoas online no Vatsim com detalhes, por enquanto está funcionando apenas para ATCs mas já estamos corrigindo a versão piloto*
 
 **ATC**
-<figure markdown>
-![OnVatsim informations](../../assets/images/english/onvatsim.png)
-</figure>
 
-**Pilot**
-
-*Coming Soon*
+![OnVatsim informations](../../../../../../assets/docs/portuguese/vatsim/onvatsim.png)
 
 
-**If you enter a that no one is connected:**
+**Piloto**
 
-*The bot will return an error message that no one is currently connected with that callsign*
+*Em Breve*
 
-<figure markdown>
-![Vatsim Error](../../assets/images/english/onvatsimerror.png)
-</figure>
+
+**Se você inserir um que ninguém está conectado:**
+
+*O bot retornará uma mensagem de erro informando que ninguém está conectado com esse indicativo*
+
+
+![Vatsim Error](../../../../../../assets/docs/english/vatsim/onvatsimerror.png)

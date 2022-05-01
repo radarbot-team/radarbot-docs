@@ -1,41 +1,39 @@
 ---
-title: Flight Utilities
+title: Utilitários de voo
 ---
-### .brief[ICAO] or /brief[ICAO]
+### /brief[ICAO]
 
-*Are you flying or controlling and want to know quickly the metar, taf and Zulu time, just type the brief command and the ICAO of the airport you want this information and in a few seconds the bot will return:*
-<figure markdown>
-![Brief](../../assets/images/english/brief.png)
-</figure>
+*Você está voando ou controlando e quer saber rapidamente o horário do metar, taf e Zulu, basta digitar o comando breve e o ICAO do aeroporto que deseja essa informação e em poucos segundos o bot retornará:*
 
-### .metar[ICAO] or /metar[ICAO]
+![Brief](../../../../../../assets/docs/portuguese/flight-utilities/brief.png)
 
-*Want more details of airport metar, or rather already decoded just type metar command, it will reply with metar already decoded for you*
 
-<figure markdown>
-![Metar](../../assets/images/english/metar.png)
-</figure>
+### /metar[ICAO]
 
-### .taf[ICAO] or /taf[ICAO]
+*Quer mais detalhes do metar do aeroporto, ou melhor, já decodificado basta digitar o comando metar, ele responderá com o metar já decodificado para você*
 
-*If the metar command was not enough, we have the taf command, it will send the decoded taf to facilitate your simulation*
-<figure markdown>
-![Taf](../../assets/images/english/taf.png)
-</figure>
+
+![Metar](../../../../../../assets/docs/portuguese/flight-utilities/metar.png)
+
+### /taf[ICAO]
+
+*Se o comando metar não foi suficiente, temos o comando taf, ele enviará o taf decodificado para facilitar sua simulação*
+
+![Taf](../../../../../../assets/docs/portuguese/flight-utilities/taf.png)
+
 
 
 ### /charts[ICAO]
 
-!!! note
-    This command is available by Slash Commands, make sure the bot is allowed to use this type of command on your server
+
+*Para ter as cartas dos EUA e do Brasil diretamente em discord, use nosso comando de letras, o bot fará uma paginação com as cartas recebidas via API para navegar entre as páginas use os botões abaixo da mensagem*
+
+![Charts](../../../../../../assets/docs/portuguese/flight-utilities/charts.png)
 
 
-*To have the letters from the USA and Brazil directly in discord, use our command of letters, the bot will make a pagination with the letters received via API to navigate between the pages use the buttons below the message*
-<figure markdown>
-![Charts](../../assets/images/english/charts.png)
-</figure>
-
-!!! note
-    Only those who executed the command can move the pages, if any other member interferes, the bot will send a private message
-!!! note
-    After 120 secconds the command has been executed, the buttons are disabled
+:::note
+Somente quem executou o comando pode mover as páginas, caso algum outro membro interfira, o bot enviará uma mensagem privada
+:::
+:::note
+Após 120 segundos o comando foi executado, os botões são desabilitados
+:::
