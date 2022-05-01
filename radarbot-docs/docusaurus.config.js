@@ -106,6 +106,7 @@ const config = {
           
           src:"img/vercel-light-logo.svg",
           alt: "Vercel Logo",
+          href: "https://vercel.com/?utm_source=radarbot-team&utm_campaign=oss"
         }
       },
       prism: {
