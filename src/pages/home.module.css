@@ -4,6 +4,17 @@
   align-items: center;
   justify-content: center;
   flex-direction: row;
+  background:
+  /*
+    linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+  ),
+*/
+  url('https://docs.radarbot.xyz/img/RadarBotLogo.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 40%;
 }
 
 .left {
