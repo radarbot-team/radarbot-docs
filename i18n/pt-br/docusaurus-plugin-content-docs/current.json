@@ -1,0 +1,18 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.RadarBot Commands": {
+    "message": "RadarBot Commands",
+    "description": "The label for category RadarBot Commands in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Changelog": {
+    "message": "Changelog",
+    "description": "The label for category Changelog in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Guides": {
+    "message": "Guides",
+    "description": "The label for category Guides in sidebar tutorialSidebar"
+  }
+}

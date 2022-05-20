@@ -8,6 +8,8 @@ title: 📸Setup Screenshots System
 
 *The screenshot system is a way to vote for the best screenshot on the server! Where members put their photos in a channel (you can choose the channel), the bot recognizes them and adds the 3 items (Add Vote, Remove Vote and the amount of votes) soon we will talk more about them. After the bot adds the items, the vote is released when it reaches the minimum votes you chose in the configuration, this photo is sent to another channel (generally named Top-Screenshots, but it's your choice) where the best screenshots are and who decides is the members of the server itself!*
 
+![GIF](../../assets/docs/screenshots-radarbot.gif)
+
 
 ## Configuring the Screenshot System
 **First step**

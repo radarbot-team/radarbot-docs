@@ -8,6 +8,7 @@ title: 📸Setup Screenshots System
 
 *O sistema de captura de tela é uma forma de votar na melhor captura de tela do servidor! Onde os membros colocam suas fotos em um canal (você pode escolher o canal), o bot os reconhece e adiciona os 3 itens (Adicionar Voto, Remover Voto e a quantidade de votos) em breve falaremos mais sobre eles. Após o bot adicionar os itens, o voto é liberado quando atinge o mínimo de votos que você escolheu na configuração, essa foto é enviada para outro canal (geralmente chamado Top-Screenshots, mas a escolha é sua) onde estão as melhores screenshots e quem decide são os membros do próprio servidor!*
 
+![GIF](../../../../../assets/docs/screenshots-radarbot.gif)
 
 ## Configurando o sistema de captura de tela
 **Primeiro Passo**
